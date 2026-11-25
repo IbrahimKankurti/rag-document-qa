@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Virtual environment (very large)
+2myenv/
+
+# Generated files
+vector_store.json
+faiss_index/
+chroma_db/
+__pycache__/
+*.pyc
